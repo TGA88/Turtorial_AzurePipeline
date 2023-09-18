@@ -207,7 +207,8 @@ stages:
 - Runtime (Eval at runtime and value is changed immidieatly)
   - synctax $[variable]
 - Setting Pipeline Variable (in task level)
-  - Loggin Command (Set during execute task in step) `"##vso[task.setVariable variable=HAS\_TEST\_RESULT]true"\``
+  - Loggin Command (Set during execute task in step) 
+  ```"##vso[task.setVariable variable=HAS\_TEST\_RESULT]true"\```
 
 To additional
 
@@ -218,6 +219,11 @@ To additional
 
 
 ### Sharing Variable In  Different scope
+
+syntax
+```
+echo "##vso[task.setvariable variable=psJobVariable;isOutput=true]some_value"
+```
 
 ---
 
