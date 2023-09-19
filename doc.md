@@ -246,7 +246,7 @@ Using output variable to decalre variable and use it in different scope
 > You will never know an output variable’s value until a task in the pipeline runs.
 
 <br>
-####Creating output variables
+#### Creating output variables
 There are two different ways to create output variables – by building support for the variable in the task itself or setting the value ad-hoc in a script.
 
 - Existing and custom tasks (mostly task will declare outvar)
