@@ -2,7 +2,7 @@
 
 - Basic Linux Command
 - Build Tool for each Programming Language (dotnet,Node,Python,Go,JAVA)
-- YAML
+- YAML ([Learning in 10 minute click](https://youtu.be/BEki_rsWu4E?si=5stTunZb7bmZb_fS))
 - Optional
   - Basic Python (Accees file and io)
   - Docker
