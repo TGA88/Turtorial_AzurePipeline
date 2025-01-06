@@ -100,7 +100,7 @@ it is very useful when you want to seperate cd pipeline file from ci.
 
 - Tigger:none is mean disable any trigger from version control
 - pipeline: ci is alias name that can be used to referance in this pipeline file.
-- source: feed-sln-system-ci is name of origin pipeline that can run success.
+- source: funny-sln-system-ci is name of origin pipeline that can run success.
 
 <br>
 <br>
